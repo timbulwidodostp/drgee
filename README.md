@@ -1,6 +1,8 @@
 # drgee
 Fit Doubly Robust Weighted Generalized Estimating (Estimation) Equations Use drgee With (In) R Software
 
+https://www.youtube.com/watch?v=6-u6WgBStLQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
